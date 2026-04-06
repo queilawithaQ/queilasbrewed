@@ -77,7 +77,7 @@ GEM
     racc (1.5.2)
     rack (2.2.3)
     rainbow (3.0.0)
-    rdiscount (2.2.0.2)
+    rdiscount (2.2.7.4)
     regexp_parser (2.1.1)
     rexml (3.2.5)
     ronn (0.7.3)
